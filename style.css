@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5) 100%),url(https://bitsum.com/wp-content/uploads/dark-background-images-5561-5821-hd-wallpapers.jpg);
+    background-size: cover;
+    
+}
+
+.font-style{
+    font-size: 40px;
+    font-family: monospace;
+    color: orangered;
+    text-shadow: 3px 3px 3px rgb(206, 82, 82);
+}
+
+.footer{
+    position: fixed;
+    color: rgb(14, 138, 76);
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.name{
+    font-size: 15px;
+    text-transform: lowercase;
+    font-family: cursive;
+}
+
+.mail{
+    text-transform: lowercase;
+    color: rgb(14, 138, 76);
+}
+
+.icon{
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 5px;
+    font-size: 25px;
+    color: rgb(95, 95, 95);
+}
+
